@@ -12,7 +12,8 @@ You can find 2 models here, both trained using piper from LJSpeech pre-trained m
 
 Trained for ~40 hours on RTX 4090, final epoch 3994.
 
-[glados_medium_sample-00_part1_success-3.wav](./samples/glados_medium_sample-00_part1_success-3.wav)
+https://github.com/user-attachments/assets/fd842e5f-b5f7-445e-8b1d-d80268c2cfd8
+
 
 ### High
 
