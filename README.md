@@ -20,6 +20,5 @@ https://github.com/user-attachments/assets/2ad90cbe-ec11-4fc8-8223-6a05f0638ad6
 
 Trained for ~72 hours on RTX 4090 final epoch XXX
 
-
-https://github.com/user-attachments/assets/37cfa94e-dc34-4327-9c51-b5f2ebc4db2e
+https://github.com/user-attachments/assets/7fb78062-672b-4b92-b6cd-dd7d0196d06b
 
